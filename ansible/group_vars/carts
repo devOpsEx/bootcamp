@@ -3,6 +3,8 @@ additional:
     - openjdk-8-jre-headless
     - openjdk-8-jdk-headless
     - maven
+    - nano
+    - docker
 
 carts:
   artifact: http://jenkins:8080/view/carts/job/Carts%20Package/lastSuccessfulBuild/artifact/target/carts.jar
