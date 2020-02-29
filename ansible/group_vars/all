@@ -11,6 +11,7 @@ common:
 additional:
   packages:
     - nano
+    - docker
   paths:
     - /opt/bin
 
