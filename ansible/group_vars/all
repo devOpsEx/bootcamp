@@ -10,7 +10,7 @@ common:
 
 additional:
   packages:
-    -
+    - nano
   paths:
     - /opt/bin
 
